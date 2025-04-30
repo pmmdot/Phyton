@@ -1,0 +1,12 @@
+Player : ur dad
+ Difficulty: IMPOSSIBLE
+ Score(time): 310.9753499031067
+ Accuracy: 52.38095238095239
+Player : sidd
+ Difficulty: EASY
+ Score(time): 19.403428316116333
+ Accuracy: 100.0
+Player : sidd
+ Difficulty: STANDARD
+ Score(time): 18.03266477584839
+ Accuracy: 100.0
